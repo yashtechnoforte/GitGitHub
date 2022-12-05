@@ -11,4 +11,7 @@ public class Practice3 {
     public Practice3(int a,int b){
         System.out.println(a-b);
     }
+    // public Practice3(int a){
+    //     System.out.println(a+a);
+    // }
 }
