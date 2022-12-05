@@ -11,4 +11,7 @@ public class Practice{
     public void myAge(){
         System.out.println("22");
     }
+    public Practice(){
+        System.out.println("From Pusad");
+    }
 }
