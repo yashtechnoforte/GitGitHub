@@ -4,6 +4,7 @@ public class Practice{
         myFullName();
         Practice age=new Practice();
         age.myAge();
+        Practice.method();
     }
     public static void myFullName(){
         System.out.println("Yash S");
@@ -13,5 +14,8 @@ public class Practice{
     }
     public Practice(){
         System.out.println("From Pusad");
+    }
+    public static void method(){
+        System.out.println("BIT");
     }
 }
