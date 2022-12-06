@@ -21,10 +21,10 @@ public class Array {
                 array[i]=sc.nextInt();
             }
     
-            // for (int i=0; i<n; i++)
-            // {
-            //     System.out.println(array[i]);
-            // }
+            for (int i=0; i<n; i++)
+            {
+                System.out.println(array[i]);
+            }
         }
     
 }

@@ -6,5 +6,9 @@ public class Practice3 {
         int a=sc.nextInt();
         int b=sc.nextInt();
         System.out.println(a+b);
+        Practice3.multiplication();
+    }
+    public static void multiplication(){
+        System.out.println("Multiplication");
     }
 }
