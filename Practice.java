@@ -12,6 +12,7 @@ public class Practice{
     public void myAge(){
         System.out.println("22");
     }
+<<<<<<< HEAD
     public Practice(){
         System.out.println("From Pusad");
     }
@@ -25,4 +26,9 @@ public class Practice{
         System.out.println("IT");
     }
     
+=======
+    public void myCollege(){
+        System.out.println("BIT");
+    }
+>>>>>>> dev
 }
