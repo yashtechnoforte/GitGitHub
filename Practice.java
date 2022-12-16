@@ -18,4 +18,11 @@ public class Practice{
     public static void method(){
         System.out.println("BIT");
     }
+    public static void method2(){
+        System.out.println("INIT");
+    }
+    public static void method3(){
+        System.out.println("IT");
+    }
+    
 }

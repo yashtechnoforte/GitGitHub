@@ -7,4 +7,7 @@ public class Practice2 {
     public static void m1(){
         System.out.println("XYZ");
     }
+    public static void m2(){
+        System.out.println("ZYX");
+    }
 }
