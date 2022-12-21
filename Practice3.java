@@ -16,5 +16,7 @@ public class Practice3 {
     }
     public static void substraction(){
         System.out.println("Substraction");
-    }  
+    } 
+    public static void division(){
+        System.out.println("Division");
 }
