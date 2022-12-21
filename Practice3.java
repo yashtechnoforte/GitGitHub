@@ -11,4 +11,8 @@ public class Practice3 {
     public static void multiplication(){
         System.out.println("Multiplication");
     }
+    public static void addition(){
+        System.out.println("Addition");
+    }
+        
 }
