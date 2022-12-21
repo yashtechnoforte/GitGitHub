@@ -7,6 +7,8 @@ public class Practice3 {
         int b=sc.nextInt();
         System.out.println(a+b);
         Practice3.multiplication();
+        Practice3.addition();
+        Practice3.substraction();
     }
     public static void multiplication(){
         System.out.println("Multiplication");
